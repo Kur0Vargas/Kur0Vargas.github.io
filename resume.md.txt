@@ -6,14 +6,14 @@ http://www.linkedin.com/in/anthony-tran-052
 
 # Summary
 
-Hardworking student seeking employment in the field of analytics and data science (GIS). Ready to utilize my experiences and skills. Technologically adept, offering experience with many different social media platforms, office producivity suite, and advanced computers skills through photo and video editting skills.
+> Hardworking student seeking employment in the field of analytics and data science (GIS). Ready to utilize my experiences and skills. Technologically adept, offering experience with many different social media platforms, office producivity suite, and advanced computers skills through photo and video editting skills.
 
 # Work Experience (in last 10 years)
 
 ## YMCA Swim Instructor (Newcastle, WA)
 * [YMCA of Greater Seattle]
 
-** Aquatics I - Swim Instructor ** (Aug 2022 - Apr 2025)
+**Aquatics I - Swim Instructor** (Aug 2022 - Apr 2025)
 
 Taught valuable swimming lessons for members across all ages. Developing character and going beyond just swimming lessons.
 
@@ -30,7 +30,7 @@ Taught valuable swimming lessons for members across all ages. Developing charact
 ## Highlands Judo Dojo (Renton, WA)
 * [USA Judo]
 
-** Assistant Instructor ** (Mar 2019 - May 2025)
+**Assistant Instructor** (Mar 2019 - May 2025)
 
 Taught members of the dojo the art of Judo. How to utilize their body with max efficiency. Grappling skills and learning how to protect themselves through grappling techniques and defensive maneuvers.
 
@@ -39,16 +39,17 @@ Taught members of the dojo the art of Judo. How to utilize their body with max e
 - Over a decade of competition and coaching experience
 - Motivated to learn, grow, and excel
 
-[Highlands Judo Dojo]: https://www.highlands-judo.com
+[![Highlands Judo Dojo](https://static.wixstatic.com/media/09f3dc_8a26af650f614f969af7568d44f9bfc1~mv2.jpg/v1/fill/w_156,h_154,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Highlands-Judo_Logo%20-%20Final.jpg)](https://www.highlands-judo.com)
+
 
 # Education
 
 ## University of Washington (Seattle, WA)
-** Bachelors of Arts in Geography: Data Science **, Geographic Information Science (GIS)
+**Bachelors of Arts in Geography: Data Science**, Geographic Information Science (GIS)
 (2023 - 2026)
 
 ## Bellevue College (Bellevue, WA)
-** Associates of Arts and Sciences (AAS) **, Pre-Engineering
+**Associates of Arts and Sciences (AAS)**, Pre-Engineering
 (2021 - 2023)
 
 # Skills
