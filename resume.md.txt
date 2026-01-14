@@ -1,28 +1,78 @@
 # Anthony Tran
 
-your.name@example.com
+Anthony_Thien.Tran@outlook.com
 
 http://www.linkedin.com/in/anthony-tran-052
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Hardworking student seeking employment in the field of analytics and data science (GIS). Ready to utilize my experiences and skills. Technologically adept, offering experience with many different social media platforms, office producivity suite, and advanced computers skills through photo and video editting skills.
 
-# Work Experience (only last 10 years)
+# Work Experience (in last 10 years)
 
 ## YMCA Swim Instructor (Newcastle, WA)
-
 * [YMCA of Greater Seattle]
 
-** Aquatics I - Swim Instructor ** (Start Date - End Date)
+** Aquatics I - Swim Instructor ** (Aug 2022 - Apr 2025)
 
 Taught valuable swimming lessons for members across all ages. Developing character and going beyond just swimming lessons.
 
 
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Over years' worth of experience with teaching and interacting with various age groups
+- Effective in Cross-Functional Teams
+- Self-Discipline in a professional work space
+- Enthusiastic about bettering members and individuals as a whole through teaching essential skills.
 
 
 [YMCA of Greater Seattle]: http://www.univ1.edu
+
+
+## Highlands Judo Dojo (Renton, WA)
+* [USA Judo]
+
+** Assistant Instructor ** (Mar 2019 - May 2025)
+
+Taught members of the dojo the art of Judo. How to utilize their body with max efficiency. Grappling skills and learning how to protect themselves through grappling techniques and defensive maneuvers.
+
+- Club co-adminstrator managing website, website design, and facility maintenance
+- USA Judo and National **Coach Certification**
+- Over a decade of competition and coaching experience
+- Motivated to learn, grow, and excel
+
+[Highlands Judo Dojo]: https://www.highlands-judo.com
+
+# Education
+
+## University of Washington (Seattle, WA)
+** Bachelors of Arts in Geography: Data Science **, Geographic Information Science (GIS)
+(2023 - 2026)
+
+## Bellevue College (Bellevue, WA)
+** Associates of Arts and Sciences (AAS) **, Pre-Engineering
+(2021 - 2023)
+
+# Skills
+
+- Photo Editting - Photoshop, DaVinci Resolve, Paint.net
+- Video Editting - DaVinci Resolve, Wondershare Filmora
+- Software and Programming Lanuages - Power BI, R, Java, MATLAB, MS Word, PowerPoint, Excel, Outlook
+- Content Creation - DaVinci Resolve, Wondershare Filmora
+- Teaching/Mentoring - Swimming Skills, Team Working, Planning of Lessons, Child Care, Safety Principles
+- Martial Arts - Coordination Skills, Planning of Lessons, Judo
+- Technical Skills - 108WPM, Data Analytics, Data Visualization
+
+# Certification
+
+### Jan 2025 - 2029
+## USA Judo National Coach
+
+### APR 2024 - 2026
+## American RED CROSS CPR and FIRST Aid Provider
+
+### JAN 2025
+## Concussion Awareness Training Tool (CATT)
+
+
+# Languages
+- English
+- Japanese (Beginner)
